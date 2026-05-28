@@ -2,7 +2,7 @@
 author: Jeff Yang
 pubDatetime: 2026-05-27T08:18:52.737Z
 modDatetime: 2026-05-27T08:35:46.734Z
-title: From Prompt to Output: Day-to-Day AI Agent Workflow
+title: From Prompt to Output - Day-to-Day AI Agent Workflow
 tags:
   - opensource
   - hermes
@@ -11,7 +11,7 @@ tags:
   - prompt
   - engineering
   - ai
-description: From Prompt to Output: Day-to-Day AI Agent Workflow
+description: From Prompt to Output - Day-to-Day AI Agent Workflow
 featured: true
 draft: false
 ---
