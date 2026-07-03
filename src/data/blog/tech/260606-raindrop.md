@@ -1,3 +1,19 @@
+---
+author: Jeff Yang
+pubDatetime: 2026-07-03T08:18:52.737Z
+modDatetime: 2026-07-03T08:35:46.734Z
+title: Raindrop.io Review- Universal Bookmarking on PC, Mobile, and Linux
+tags:
+  - opensource
+  - raindrop
+  - bookmark
+  - bitly
+  - pocket
+description: Raindrop review
+featured: false
+draft: false
+---
+
 # Raindrop.io Review: Universal Bookmarking on PC, Mobile, and Linux
 
 ## Disclaimer
