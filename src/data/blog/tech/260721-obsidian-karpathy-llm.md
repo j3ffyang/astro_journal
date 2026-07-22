@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
-pubDatetime: 2026-07-22T08:18:52.737Z
-modDatetime: 2026-07-22T08:35:46.734Z
+pubDatetime: 2026-07-22T00:18:52.737Z
+modDatetime: 2026-07-22T00:35:46.734Z
 title: Build Your Own AI-Powered Wiki with Obsidian + Karpathy LLM Wiki + Ollama
 tags:
   - opensource
