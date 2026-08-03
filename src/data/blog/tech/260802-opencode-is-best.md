@@ -12,7 +12,7 @@ tags:
   - opensource
   - agent
 description: Why OpenCode is my daily driver — no vendor lock-in, the big-pickle model, AGENTS.md/SKILL.md conventions, and unified billing via OpenRouter.
-featured: false
+featured: true
 draft: false
 ---
 
