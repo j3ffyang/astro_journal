@@ -21,7 +21,7 @@ draft: false
 
 # How to Manage Your Android Device from Hyprland (The Arch Linux Way)
 
-![android-scrcpy](../../../assets/images/2026-05-09-024537_hyprshot.png)
+![android-scrcpy](../../../assets/images/260509-024537-hyprshot.png)
 <p align="center">The above screen is captured from ArchLinux Desktop</p>
 
 

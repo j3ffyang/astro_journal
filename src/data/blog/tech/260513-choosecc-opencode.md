@@ -36,7 +36,7 @@ Both let you chat with the codebase and run terminal work; the difference is mos
 
 ## What I actually prefer
 
-![opencode_main](../../../assets/images//2026-05-13-170852_hyprshot.png)
+![opencode_main](../../../assets/images/260513-170852-hyprshot.png)
 
 - **Open source**—I like tools I can read, fork, and reason about.
 - **Decoupled model** so I can chase **free or cheap** options when I want—e.g. [NVIDIA Nemotron 3 Super on OpenRouter (free tier)](https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free)—not only Opus.

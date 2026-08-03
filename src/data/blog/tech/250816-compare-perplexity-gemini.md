@@ -21,7 +21,7 @@ tags:
 
 Most of the time, I use Perplexity for my tech questions. But recently, I ran into a _little_ frustrating issue while forking an open-source project on Git. The project had this annoying block of "Sponsor this project" as highlighted in <font color=red>red</font> border, that linked to some random website for no clear reason. I totally respect the original developer’s effort, but it just didn’t make sense for my personal blog. 
 
-![](../../../assets/images/250816_sponsorFunding_github.png)
+![](../../../assets/images/250816-sponsorfunding-github.png)
 
 So, I decided to remove it.
 
@@ -30,7 +30,7 @@ So, I decided to remove it.
 First, I tried to find answers on Google Search but came up empty. Then I switched over to Perplexity and had the following chat:
 
 
-![](../../../assets/images/250816_perplexity_response0_stroked.png)
+![](../../../assets/images/250816-perplexity-response0-stroked.png)
 
 Perplexity tells me NO WAY to disable it.
 
@@ -38,7 +38,7 @@ Perplexity tells me NO WAY to disable it.
 
 After that, I gave Gemini a shot with this convo:
 
-![](../../../assets/images/250816_geminiResponse_stroked.png)
+![](../../../assets/images/250816-geminiresponse-stroked.png)
 
 Turns out, Gemini handled it pretty well! The unexpected block is gone in my repo on Github, after I straight-forward followed- up steps to remove it. Happy with the result. 
 
@@ -46,7 +46,7 @@ Turns out, Gemini handled it pretty well! The unexpected block is gone in my rep
 
 I went back to Perplexity and asked a review with a hint, getting this reply:
 
-![](../../../assets/images/250816_perplexity_response1_stroked.png)
+![](../../../assets/images/250816-perplexity-response1-stroked.png)
 
 Here’s the kicker- Perplexity actually admitted that its first response was wrong. That surprised me! It was refreshing to see an AI own up to a mistake.
 

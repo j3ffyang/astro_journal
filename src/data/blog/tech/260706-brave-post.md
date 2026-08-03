@@ -26,7 +26,7 @@ draft: false
 
 ---
 
-![infograph](../../../assets/images/openai_gpt-image-2-medium_20260709_102832_ed8ca1ae.png)
+![infograph](../../../assets/images/openai-gpt-image-2-medium-20260709-102832-ed8ca1ae.png)
 
 ## Before Brave
 

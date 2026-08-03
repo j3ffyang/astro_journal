@@ -20,7 +20,7 @@ draft: false
 
 # Writing Your Own Custom Skill in OpenClaw 🦞
 
-![customSkill](../../../assets/images/2604061410_openclaw-custom-skills.png)
+![customSkill](../../../assets/images/260406-openclaw-custom-skills.png)
 
 ## Getting Started
 

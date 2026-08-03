@@ -16,7 +16,7 @@ draft: false
 
 # How to Play with SOUL.md in Hermes Agent
 
-![querySOUL.md](../../../assets/images/2026-05-19-102626_hyprshot.png)
+![querySOUL.md](../../../assets/images/260519-102626-hyprshot.png)
 
 ## At a glance
 

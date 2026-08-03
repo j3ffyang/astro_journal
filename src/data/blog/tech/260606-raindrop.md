@@ -22,7 +22,7 @@ draft: false
 
 ---
 
-![raindrop](../../../assets/images/openai_gpt-image-2-medium_20260703_082826_eee473b2.png)
+![raindrop](../../../assets/images/openai-gpt-image-2-medium-20260703-082826-eee473b2.png)
 
 ## Background: Why Switch?
 

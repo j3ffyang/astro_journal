@@ -33,7 +33,7 @@ Using a laptop like the Dell XPS 13 as a docked workstation on Linux often prese
 
 This guide outlines a proven configuration to ensure your external monitor, keyboard, and mouse remain responsive, even during long idle periods.
 
-![external_display](../../../assets/images/2026-05-09-070912_hyprshot.png)
+![external_display](../../../assets/images/260509-070912-hyprshot.png)
 
 <p align="center">The external display is connected using an HDMI cable through a USB-C hub</p>
 

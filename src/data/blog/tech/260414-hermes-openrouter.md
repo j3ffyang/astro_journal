@@ -23,7 +23,7 @@ draft: false
 Use **Hermes** as a drop-in alternative to **OpenClaw**.  
 Configure the free **Elephant-Alpha** model via **OpenRouter**.
 
-![img](../../../assets/images/260414_hermes_openrouter2.png)
+![img](../../../assets/images/260414-hermes-openrouter2.png)
 ### Background
 After using OpenClaw for several months, I grew curious about Hermes and decided to give it a try. This guide walks through integrating the free **Elephant-Alpha** model from OpenRouter.
 

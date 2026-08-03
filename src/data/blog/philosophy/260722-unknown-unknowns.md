@@ -24,7 +24,7 @@ I've been thinking about this for over a decade now. It all started with a simpl
 
 In 1697, Europeans encountered something they never imagined possible: **a swan that wasn't white**. For their entire lives, "swan" meant white. Like Swan Lake, like every painting, every story, every mental image they ever had. **Black swans simply didn't exist in their mental universe. Until they did.**
 
-![blackSwan](../../../assets/images/260726_blackswan.jpg)
+![blackSwan](../../../assets/images/260726-blackswan.jpg)
 Image Credit > https://en.wikipedia.org/wiki/Black_swan
 
 This reminds me of a framework that's stuck with me ever since—the idea that knowledge can be categorized into four types. It's not original to me, but it's something I keep coming back to, and **the older I get, the more I realize which category matters most.**

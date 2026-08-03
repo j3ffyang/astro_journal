@@ -17,7 +17,7 @@ draft: false
 
 # OpenClaw Security Risks: A Warning to Users and Self-Hosters
 
-![secImg](../../../assets/images/2603271113_openclaw-security.png)
+![secImg](../../../assets/images/260327-openclaw-security.png)
 
 OpenClaw 🦞 is powerful, but it currently carries serious security risk when self-hosted with default settings. Community reports and security discussions consistently point to exposed services, untrusted community skills, and weak operational guardrails.
 

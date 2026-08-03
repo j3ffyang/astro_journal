@@ -53,7 +53,7 @@ If you’re going through this too, **the Arch Wiki is your best friend**:
 
 ## My Hardware and How It Looks with Arch Installed
 
-![](../../../assets/images/2025-09-28-archHyprland_main.png)
+![](../../../assets/images/250928-archhyprland-main.png)
 
 
 <!--
@@ -229,7 +229,7 @@ If you see your GPU details, you’re golden!
 
 ## Steam on Arch Linux
 
-![Launching RDR on Hyprland](../../../assets/images/2025-09-27-rdr2launcher.png)
+![Launching RDR on Hyprland](../../../assets/images/250927-rdr2launcher.png)
 
 > Reference: [ArchWiki - Steam](https://wiki.archlinux.org/title/Steam)
 
@@ -328,7 +328,7 @@ Edit reference from https://www.reddit.com/r/hyprland/comments/1h4abmt/how_do_i_
 
 #### Development Tools
 
-![vim as Python IDE](../../../assets/images/2025-10-08-vimrc.png)
+![vim as Python IDE](../../../assets/images/251008-vimrc.png)
 
 For coding, I prefer `vim` with Python IDE features, so I grab this version from AUR:
 

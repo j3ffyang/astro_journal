@@ -26,7 +26,7 @@ draft: false
 
 Optimizing your ROG Zephyrus G14 on **Arch Linux** with Hyprland is a game-changer for both **performance** and **battery** life. Since you are using the **g14** repository maintained by the ASUS Linux community, you get access to custom kernels and tools specifically tuned for your hardware.
 
-![steam on archlinx](../../../assets/images/2026-05-07-135103_hyprshot.png)
+![steam on archlinx](../../../assets/images/260507-135103-hyprshot.png)
 <p align="center">Steam on ArchLinux with Nvidia GPU</p>
 
 Here is a quick guide to getting your system dialed in.

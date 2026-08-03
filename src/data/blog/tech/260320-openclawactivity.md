@@ -17,7 +17,7 @@ draft: false
 # What I've Been Up To in OpenClaw 🦞 Lately
 
 <!-- image prompt: a glowing red lobster sitting at a cloud server terminal, dark background, cyberpunk style, minimal flat illustration -->
-![main title](../../../assets/images/2603202041_title.png)
+![main title](../../../assets/images/260320-title.png)
 
 [toc]
 
@@ -26,7 +26,7 @@ draft: false
 ## Setup & Usage Stats
 
 <!-- image prompt: flat illustration of a Linux terminal showing system specs and a bash history graph, dark theme, minimal -->
-![section image](../../../assets/images/2603202041_sec1_env.png)
+![section image](../../../assets/images/260320-sec1-env.png)
 
 Heads up: my 🦞 OpenClaw runs in the cloud, not local! No GUI here — TUI only, baby.
 
@@ -47,7 +47,7 @@ grep openclaw ~/.bash_history | wc
 ## The Commands I Actually Use
 
 <!-- image prompt: flat illustration of a terminal showing a ranked command list with frequency counts, monospace font, dark background -->
-![section image](../../../assets/images/2603202041_sec2_commands.png)
+![section image](../../../assets/images/260320-sec2-commands.png)
 
 This output is kinda hilarious — my most-used `openclaw` commands, ranked like a leaderboard:
 
@@ -90,7 +90,7 @@ All command line, all day. Let me break down the hit parade:
 ## Managing SKILLs on Clawhub
 
 <!-- image prompt: flat illustration of a package manager CLI with install/update/publish actions, lobster icon, minimal dark theme -->
-![section image](../../../assets/images/2603202041_sec3_clawhub.png)
+![section image](../../../assets/images/260320-sec3-clawhub.png)
 
 The stuff on clawhub.ai is a mixed bag, so I said screw it and write all my own `SKILL.md` files. Here's what I actually run on `clawhub`:
 
@@ -125,7 +125,7 @@ history | sed 's/^[ ]*[0-9]\+[ ]*//' | grep '^clawhub' | sort | uniq -c | sort -
 ## Config Files & Backup Strategy
 
 <!-- image prompt: flat illustration of a JSON config file with a shield and backup arrows, dark minimal style, lobster icon -->
-![section image](../../../assets/images/2603202041_sec4_backup.png)
+![section image](../../../assets/images/260320-sec4-backup.png)
 
 `~/.openclaw/openclaw.json` is the brain of OpenClaw — every config option lives here. Corrupt this file and your agent won't even wake up. Use commands to tweak things whenever possible; only crack open `nvim` as a last resort:
 

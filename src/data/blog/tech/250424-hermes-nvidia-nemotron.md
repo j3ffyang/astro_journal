@@ -29,7 +29,7 @@ draft: false
 - You can set OpenRouter with a primary model and fallback models
 - Setup should be almost the same if you use OpenClaw 🦞
 
-![hermes-tui](../../../assets/images/260422_hermes_nvidia_main.png)
+![hermes-tui](../../../assets/images/260422-hermes-nvidia-main.png)
 
 ## Register OpenRouter
 
@@ -50,7 +50,7 @@ draft: false
 
 A quick comparison chart is attached to show differences between Nvidia Nemotron, Google Gemma, and Claude's current flagship model, Opus 4.7.
 
-![modelCompare](../../../assets/images/260422_hermes_nvidia.png)
+![modelCompare](../../../assets/images/260422-hermes-nvidia.png)
 
 There is also a short explanation of reasoning vs completion at the end of this article.
 
