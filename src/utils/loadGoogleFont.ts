@@ -1,3 +1,35 @@
+async function fetchWithRetry(
+  url: string,
+  init?: RequestInit,
+  retries = 4
+): Promise<Response> {
+  let lastError: Error | null = null;
+
+  for (let attempt = 0; attempt < retries; attempt++) {
+    try {
+      const res = await fetch(url, init);
+      if (res.ok) return res;
+
+      // Only retry transient errors (5xx, rate limit); fail fast on the rest
+      if (res.status !== 429 && res.status < 500) {
+        throw new Error("Failed to download dynamic font. Status: " + res.status);
+      }
+
+      lastError = new Error(
+        "Failed to download dynamic font. Status: " + res.status
+      );
+    } catch (err) {
+      lastError = err instanceof Error ? err : new Error(String(err));
+    }
+
+    // Exponential backoff with jitter
+    const delay = 500 * 2 ** attempt + Math.random() * 250;
+    await new Promise(resolve => setTimeout(resolve, delay));
+  }
+
+  throw lastError ?? new Error("Failed to download dynamic font");
+}
+
 async function loadGoogleFont(
   font: string,
   text: string,
@@ -5,14 +37,14 @@ async function loadGoogleFont(
 ): Promise<ArrayBuffer> {
   const API = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
 
-  const css = await (
-    await fetch(API, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
-      },
-    })
-  ).text();
+  const cssResponse = await fetchWithRetry(API, {
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
+    },
+  });
+
+  const css = await cssResponse.text();
 
   const resource = css.match(
     /src: url\((.+?)\) format\('(opentype|truetype)'\)/
@@ -20,13 +52,9 @@ async function loadGoogleFont(
 
   if (!resource) throw new Error("Failed to download dynamic font");
 
-  const res = await fetch(resource[1]);
+  const fontResponse = await fetchWithRetry(resource[1]);
 
-  if (!res.ok) {
-    throw new Error("Failed to download dynamic font. Status: " + res.status);
-  }
-
-  return res.arrayBuffer();
+  return fontResponse.arrayBuffer();
 }
 
 async function loadGoogleFonts(
