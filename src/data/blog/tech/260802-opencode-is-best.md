@@ -4,19 +4,20 @@ pubDatetime: 2026-08-02T00:00:00.000Z
 title: OpenCode is Best for Me
 tags:
   - opencode
-  - ai
-  - cli
-  - terminal
   - openrouter
-  - arch
+  - hermes
+  - agents
+  - archlinux
   - opensource
-  - agent
 description: Why OpenCode is my daily driver — no vendor lock-in, the big-pickle model, AGENTS.md/SKILL.md conventions, and unified billing via OpenRouter.
 featured: true
+modDatetime: 2026-08-04T10:34:06.000Z
 draft: false
 ---
 
 # OpenCode is Best for Me
+
+![](../../../assets/images/260802-oc-infograph.png)
 
 I've used Codex and Claude in the terminal on my Arch Linux + Hyprland machine, and paid dollars then dollars to Google, Anthropic, OpenAI, Kimi... Then I stopped at **OpenCode** + **OpenRouter** — and I still keep Hermes Agent ⚕, which is another story.
 
@@ -25,6 +26,8 @@ Context (and disclaimer: very personal opinion):
 - **OpenCode** in terminal only
 
 ## Vendor Unlocked
+
+![](../../../assets/images/260802-vendor-unlocked.png)
 
 The first, obvious one: no lock-in. I want the freedom to get in and out simply — same reason I run open source.
 
@@ -45,6 +48,8 @@ Two things make **OpenCode** feel like it already knows my projects.
 
 The side benefit: the folder stays tidy. With other agents (Hermes, OpenAI, Claude...) everyone invents its own pattern and I miss files; with **OpenCode**, the rule sticks.
 
+![](../../../assets/images/260802-oc-agent-skill.png)
+
 ### SKILL.md for OpenCode
 
 A skill is one folder + one file: `.opencode/skills/<slug>/SKILL.md`. The `SKILL.md` holds a YAML frontmatter on top and the instructions as markdown below — no separate config file needed.
@@ -64,6 +69,8 @@ Day to day, **OpenCode** covers three things:
 - **Light scripting** — not-very-complex Python and Bash
 
 ## Two Agents I Use Daily
+
+![](../../../assets/images/260802-hermes-oc.png)
 
 **Hermes** is for on-the-go, where I can talk to and operate my agent through Discord, WhatsApp and Telegram for separate tasks. For most writing or coding, I sit at my desk with **OpenCode** to finish the work.
 
