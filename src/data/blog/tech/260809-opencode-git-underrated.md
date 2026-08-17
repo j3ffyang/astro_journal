@@ -1,6 +1,6 @@
 ---
 author: Jeff Yang
-pubDatetime: 2026-08-17T12:00:00.000Z
+pubDatetime: 2026-08-17T08:00:00.000Z
 title: "OpenCode + Git: The Underrated Duo"
 tags:
   - opencode
