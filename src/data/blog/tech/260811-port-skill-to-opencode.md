@@ -75,4 +75,4 @@ That's it — porting is faster than writing from scratch, and it keeps the orig
 
 A note on licensing: porting an MIT-licensed skill is fine as long as you preserve the original license and author attribution. If you plan to publish the port to ClawHub, keep the original author's name in the `metadata` block — republishing without attribution creates confusion even if the license allows it.
 
-btw, i use arch 
+btw, i use arch

@@ -358,4 +358,4 @@ The practice that made it work was writing down what I know — in AGENTS.md for
 
 If you take one thing from this, let it be this: **the agent is only as good as the boundary you give it, and the boundary only works if you write it down.** Everything else is just practice.
 
-btw, i use arch 
+btw, i use arch

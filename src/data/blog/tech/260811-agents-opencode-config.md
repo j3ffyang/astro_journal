@@ -135,4 +135,4 @@ Centralized configuration trade-off: I personally prefer keeping all configurati
 - Docs — opencode.ai/docs/rules, opencode.ai/docs/config, opencode.ai/docs/permissions.
 - Local — `~/.config/opencode/opencode.jsonc` (symlink to `negtivSpace/opencode/opencode.jsonc`) and `~/.config/opencode/AGENTS.md` (symlink to `negtivSpace/opencode/AGENTS.md`).
 
-btw, i use arch 
+btw, i use arch

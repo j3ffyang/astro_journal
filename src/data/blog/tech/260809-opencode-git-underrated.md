@@ -122,4 +122,4 @@ If you remember only five things:
 4. **Verify before blaming.** When something fails, look at the real system (`gh run view`, the API, the logs) before concluding the tool is wrong.
 5. **Codify what works.** Rules go in AGENTS.md, procedures go in SKILL.md, and automation goes in CI — so the work you did once is never done again.
 
-btw, i use arch 
+btw, i use arch

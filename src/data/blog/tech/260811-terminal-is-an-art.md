@@ -80,4 +80,4 @@ Art isn't always about decoration — sometimes it's about craft. The terminal i
 **Media:** `ffmpeg`
 **Version control:** `git`
 
-btw, i use arch 
+btw, i use arch
