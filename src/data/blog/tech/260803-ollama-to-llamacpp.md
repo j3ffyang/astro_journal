@@ -20,13 +20,13 @@ draft: false
 
 ![Ollama to llama.cpp infographic](../../../assets/images/260803-ollama-to-llamacpp.png)
 
-I'm running a local LLM on my Arch Linux  + Hyprland setup, and already have `qwen2.5:7b` with Ollama.
+I'm running a local LLM on my Arch Linux   + Hyprland setup, and already have `qwen2.5:7b` with Ollama.
 
 I want to maximize the usage of my hardware.
 
 Therefore I decided to download a slightly bigger model to cover my daily document writing and Python coding work, and switch from Ollama to llama.cpp.
 
-My hardware: a GPD handheld running Arch  + Hyprland with an AMD Ryzen 7 7840U — a Radeon 780M integrated GPU plus a discrete Radeon RX 7600M XT (8GB each), driven through Vulkan/RADV. The exact specs don't matter; what matters is that it's a two-GPU machine (a shared-memory iGPU and a discrete dGPU), and the point of this article is how to control and tune llama.cpp on such a setup.
+My hardware: a GPD handheld running Arch   + Hyprland with an AMD Ryzen 7 7840U — a Radeon 780M integrated GPU plus a discrete Radeon RX 7600M XT (8GB each), driven through Vulkan/RADV. The exact specs don't matter; what matters is that it's a two-GPU machine (a shared-memory iGPU and a discrete dGPU), and the point of this article is how to control and tune llama.cpp on such a setup.
 
 ## The Reason of Switching to `llama.cpp` from `ollama`
 
