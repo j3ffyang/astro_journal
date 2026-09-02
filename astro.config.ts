@@ -41,6 +41,7 @@ const postRedirects = {
     "/posts/travel/260323-the-timeless-allure-of-motorcycle-riding",
   "/posts/philosophy/260722-unknownunknowns2":
     "/posts/philosophy/260722-unknown-unknowns",
+  "/posts/tech/260807-amd": "/posts/tech/260807-gpd-dual-amd-gpu",
 } as const;
 
 export default defineConfig({
