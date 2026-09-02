@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-07T00:00:00.000Z
-modDatetime: 2026-09-02T03:37:41.000Z
+modDatetime: 2026-09-02T07:56:36.000Z
 title: Arch Linux + Hyprland on GPD Win4 with iGPU + eGPU
 tags:
   - linux
@@ -17,7 +17,7 @@ draft: false
 
 # Arch Linux + Hyprland on GPD Win4 with iGPU + eGPU
 
-![fastfetch](../../../assets/images/260807-2025.png)
+![GPD Win4 handheld](../../../assets/images/260807-gpdwin4.png)
 
 ## Document Objective
 
@@ -28,6 +28,8 @@ Written as a reference for anyone using both an iGPU and an eGPU and wanting to 
 - All relevant commands in one place — distributed across sections
 - Tweak log: what's applied, what's proposed — Current State / Proposed
 - Searchable wiki for later reference — the whole doc
+
+![Fastfetch system overview](../../../assets/images/260807-2025.png)
 
 ## Hardware Stack
 - OS: Arch Linux + Hyprland 0.56.1 (Lua config officially supported)
@@ -41,6 +43,8 @@ Written as a reference for anyone using both an iGPU and an eGPU and wanting to 
 
 ### 2. With eGPU
 
+![eGPU connection diagram](../../../assets/images/260807-gpd-egpu-diagram.png)
+
 ```mermaid
 flowchart LR
     subgraph GPD["GPD Win4"]
@@ -52,6 +56,8 @@ flowchart LR
     igpu -- "OCULINK (PCIe)" --> egpu
     egpu -- "HDMI" --> monitor
 ```
+
+The Mermaid block above is the source for the PNG: iGPU → eGPU via OCULINK (PCIe), eGPU → monitor via HDMI.
 
 Expected:
 - Turn on eGPU before powering on the machine
@@ -81,7 +87,7 @@ If the eGPU line is high (60%+ in a real game) while iGPU stays low, the eGPU is
 
 Example — a lightweight Steam game running on the eGPU (eGPU busy ~25%, below the 60% bar):
 
-![egpu](../../../assets/images/260807-1815.png)
+![eGPU workload example](../../../assets/images/260807-1815.png)
 
 ## Verified Hardware Mapping (Aug 2026, this boot)
 
