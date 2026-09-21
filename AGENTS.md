@@ -15,6 +15,7 @@ Personal blog — "My Personal View to the World" (https://everbox.io) by Jeff Y
 - **URLs derive from the filename** (`getPath` in `src/utils/getPath.ts`): `/posts/<category>/<lowercase-filename-without-ext>/`. Renaming a file changes its URL.
 - When renaming a **published** post, preserve the old URL by adding a redirect to `postRedirects` in `astro.config.ts` (old URL → new URL).
 - Frontmatter: `draft: true` hides a post from the build; a missing `draft` means published. `featured: true` shows on the homepage.
+- **MUST quote any frontmatter value that contains YAML-special characters — especially `: ` (colon + space).** An unquoted `description: Foo: bar` is parsed as a mapping and fails the build at content sync. Wrap the whole value in double quotes: `description: "Foo: bar"`. Applies to every field (`title`, `description`, …). This has bitten us several times — never ship an unquoted value containing `: `.
 - Internal links (prev/next, cards, tags) are auto-generated — never hardcode `/posts/...` URLs.
 - `.orig` files (`src/pages/_index.astro.orig`, `src/layouts/PostDetails.astro.orig`, `src/data/blog/predefined-color-schemes.md.orig`) are intentional references — **never modify or delete them**.
 
@@ -26,6 +27,7 @@ Personal blog — "My Personal View to the World" (https://everbox.io) by Jeff Y
 
 ## Gotchas
 
+- **Unquoted frontmatter `: ` (colon + space) fails the build at content sync** with `bad indentation of a mapping entry` / `mapping values are not allowed in this context`. The Cloudflare build then fails and the site keeps serving the **previous** deployment, so the new post appears missing and search won't find it. Always quote the value (see Content conventions). Diagnose locally with `npx astro build` — it reproduces the exact error.
 - **OG images**: `src/pages/posts/[...slug]/index.png.ts` renders per-post `index.png` via satori. It downloads IBM Plex Mono from Google Fonts at build time (2 weights × every post) and can intermittently fail with a 502 in Cloudflare's build sandbox. `src/utils/loadGoogleFont.ts` has retry-with-backoff; if a Cloudflare build still fails there, click **Retry** on the deployment.
 - `src/pages/index.astro` has pre-existing ESLint parse errors (top of file and around line 82) — unrelated to content; ignore or fix separately.
 - Docker files (`Dockerfile`, `docker-compose.yml`) are unused — the project deploys via GitHub → Cloudflare Pages.
