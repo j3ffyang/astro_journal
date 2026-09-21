@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-19T08:00:00.000Z
-modDatetime: 2026-09-21T01:54:57.000Z
+modDatetime: 2026-09-21T02:09:42.000Z
 title: Extracting PowerPoint to Markdown Without Losing a Byte
 tags:
   - python
@@ -9,7 +9,7 @@ tags:
   - pptx
   - ooxml
   - data-extraction
-description: Engineering deep-dive: extracting PowerPoint decks into full-data Markdown — OOXML shape walking, content vs layout chrome vs unrenderable objects, a 5-point losslessness audit, and why the pipeline stays local instead of running in CI.
+description: "Engineering deep-dive: extracting PowerPoint decks into full-data Markdown — OOXML shape walking, content vs layout chrome vs unrenderable objects, a 5-point losslessness audit, and why the pipeline stays local instead of running in CI."
 featured: false
 draft: false
 ---
