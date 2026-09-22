@@ -10,7 +10,7 @@ tags:
   - ooxml
   - data-extraction
 description: "Engineering deep-dive: extracting PowerPoint decks into full-data Markdown — OOXML shape walking, content vs layout chrome vs unrenderable objects, a 5-point losslessness audit, and why the pipeline stays local instead of running in CI."
-featured: false
+featured: true
 draft: false
 ---
 

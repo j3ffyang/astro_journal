@@ -14,7 +14,7 @@ tags:
   - archlinux
   - opensource
 description: "Playing Red Dead Redemption 2 with an AI agent — documenting a playthrough in OpenCode with a custom skill and an AGENTS.md, on Arch Linux via Steam/Proton."
-featured: false
+featured: true
 draft: false
 ---
 
