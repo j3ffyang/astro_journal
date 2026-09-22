@@ -12,7 +12,7 @@ tags:
   - engineering
   - ai
 description: From Prompt to Output - Day-to-Day AI Agent Workflow
-featured: true
+featured: false
 draft: false
 ---
 

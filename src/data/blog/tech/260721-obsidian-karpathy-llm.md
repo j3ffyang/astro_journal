@@ -13,7 +13,7 @@ tags:
   - llm
   - wiki
 description: Build Obsidian + Karpathy LLM Wiki + Ollama
-featured: true
+featured: false
 draft: false
 ---
 

@@ -12,7 +12,7 @@ tags:
   - nvidia
   - openrouter
 description: how to choose between opencode and claude code
-featured: true
+featured: false
 draft: false
 ---
 

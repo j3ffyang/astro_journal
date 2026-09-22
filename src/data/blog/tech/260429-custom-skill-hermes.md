@@ -11,7 +11,7 @@ tags:
   - skill
   - skills
 description: How to Install a Custom Hermes Skill from GitHub
-featured: true
+featured: false
 draft: false
 ---
 

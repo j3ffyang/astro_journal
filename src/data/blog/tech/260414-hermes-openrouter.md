@@ -13,7 +13,7 @@ tags:
   - hermes
   - agent
 description: Hermes integrates with Free OpenRouter's Elephant-Alpha Model
-featured: true
+featured: false
 draft: false
 ---
 

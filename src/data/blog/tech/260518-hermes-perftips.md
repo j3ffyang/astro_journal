@@ -11,7 +11,7 @@ tags:
   - performance
   - ai
 description: Hermes Agent Tips & Best Practices Summary
-featured: true
+featured: false
 draft: false
 ---
 

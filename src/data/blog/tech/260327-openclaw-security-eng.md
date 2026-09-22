@@ -11,7 +11,7 @@ tags:
   - clawhub
   - security
 description: OpenClaw security risks - a warning to users and self-hosters
-featured: true
+featured: false
 draft: false
 ---
 

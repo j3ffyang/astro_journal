@@ -14,7 +14,7 @@ tags:
   - claude
   - claudecode
 description: Writing your own custom skill in OpenClaw 
-featured: true
+featured: false
 draft: false
 ---
 

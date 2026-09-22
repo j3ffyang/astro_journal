@@ -12,7 +12,7 @@ tags:
   - ai
   - backup
 description: Backup Hermes Agent
-featured: true
+featured: false
 draft: false
 ---
 

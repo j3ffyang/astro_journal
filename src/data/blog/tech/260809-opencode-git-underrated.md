@@ -12,7 +12,7 @@ tags:
   - linux
   - standard
 description: "How a 15-year git user produced more automation in two days with OpenCode than in most of those years — the 9-step thought-flow loop, division of labor, and the compounding architecture."
-featured: true
+featured: false
 draft: false
 ---
 

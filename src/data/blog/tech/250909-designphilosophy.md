@@ -13,7 +13,7 @@ tags:
   - container
   - kubernetes
 description: My whole design philosophy for IT, from the beginning to the future, boils down to just two things - standardization and automation. 
-featured: true
+featured: false
 ---
 
 

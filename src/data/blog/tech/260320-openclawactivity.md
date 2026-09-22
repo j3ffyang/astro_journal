@@ -10,7 +10,7 @@ tags:
   - ai
   - llm
 description: Setup and configure OpenClaw
-featured: true
+featured: false
 draft: false
 ---
 

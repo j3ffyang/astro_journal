@@ -9,7 +9,7 @@ tags:
   - config
   - opensource
 description: "A comprehensive analysis of OpenCode's dual configuration surfaces, instruction loading precedence, permission evaluation flow, and submodule context boundaries."
-featured: true
+featured: false
 draft: false
 ---
 

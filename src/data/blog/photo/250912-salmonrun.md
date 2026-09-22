@@ -15,7 +15,7 @@ tags:
   - nature
   - salmonrun
 description: So, the family got into this lively debate about where and how to catch the salmon run action near Toronto. They’d heard about it online, but then a fisherman buddy chimes in, saying, "Nah, it’s probably done—government banned salmon fishing since early September." Meanwhile, they’ve already gathered a list of spots around Ontario to go salmon spotting, so now it’s a toss-up between “Is it even happening?” and “Where do we go watch these fish do their thing?” Classic family debate mode!
-featured: true
+featured: false
 draft: true
 ---
 

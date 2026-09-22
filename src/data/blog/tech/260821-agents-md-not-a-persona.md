@@ -9,7 +9,7 @@ tags:
   - best-practices
   - openclaw
 description: "AGENTS.md is not a persona but a constitution written in scars — every rule traced to a real incident (a self-cloned repo, lying docs, a prompt flood), agent-agnostic lessons for any AI coding agent"
-featured: true
+featured: false
 draft: false
 ---
 

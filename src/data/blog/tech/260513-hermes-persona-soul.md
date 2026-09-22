@@ -10,7 +10,7 @@ tags:
   - openrouter
   - soul
 description: How to Play with SOUL.md in Hermes Agent
-featured: true
+featured: false
 draft: false
 ---
 

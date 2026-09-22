@@ -13,7 +13,7 @@ tags:
   - onesoulon2wheel
   - freedom
 description: The timeless allure of motorcycle riding
-featured: true
+featured: false
 draft: true
 ---
 

@@ -8,7 +8,7 @@ tags:
   - west
   - guadalajara
 description: My Travel Log
-featured: true
+featured: false
 draft: true
 ---
 

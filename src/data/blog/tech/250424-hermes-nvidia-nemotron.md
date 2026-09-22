@@ -13,7 +13,7 @@ tags:
   - nemotron
   - model
 description: Hermes connects Nvidia Nemotron model via OpenRouter for free
-featured: true
+featured: false
 draft: false
 ---
 
