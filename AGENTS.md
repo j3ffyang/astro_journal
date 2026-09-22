@@ -19,6 +19,16 @@ Personal blog — "My Personal View to the World" (https://everbox.io) by Jeff Y
 - Internal links (prev/next, cards, tags) are auto-generated — never hardcode `/posts/...` URLs.
 - `.orig` files (`src/pages/_index.astro.orig`, `src/layouts/PostDetails.astro.orig`, `src/data/blog/predefined-color-schemes.md.orig`) are intentional references — **never modify or delete them**.
 
+## Featured posts (`featured: true`)
+
+`featured` is not a badge — it is the **top block of the homepage**: `src/pages/index.astro` splits posts into a "Featured" block (`data.featured`) and a "Recent posts" block (everything else). Keep it a small, curated front-door list, not a second full index.
+
+- **Approval required.** Never flip `featured` (on or off), or add/remove a featured post, without the user's **explicit approval**. Propose the change — which posts to keep vs demote — and wait for a go-ahead before editing.
+- **Cap:** ≤20% of published posts (aim ~10–12 total). If it grows past the cap, demote back down.
+- **Criteria** — a post earns featured only if it is at least one of: a **signature/opinion essay** that defines the blog's voice; a **deep, evergreen technical dive** (broadly useful, not a quick fix); or a **milestone/retrospective**. It must **not** be a how-to/quick note, a release/changelog, a working/unfinished note, or a **translation** (`-chn` is always `featured: false`).
+- **Balance:** keep a mix across themes (tech, personal, philosophy, culture/travel) so the top block shows range.
+- **Rotation:** when a new post earns featured, demote the weakest/oldest so the cap holds — don't let the set accrete and freeze the front door.
+
 ## Images
 
 - Images live in `src/assets/images/`, referenced by literal relative path from markdown (e.g. `../../../assets/images/260526-msgtips.png`).
