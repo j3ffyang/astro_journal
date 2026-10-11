@@ -11,7 +11,7 @@ tags:
   - privacy
   - security
 description: Brave browser personal review
-featured: true
+featured: false
 draft: false
 ---
 
