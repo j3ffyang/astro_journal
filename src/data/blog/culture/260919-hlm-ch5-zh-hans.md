@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-19T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 红楼梦第五回：写在开头的结局
 tags:
   - 红楼梦
   - 红学
   - 文学
   - 读书
+  - chinese
+  - history
+  - culture
+  - literature
 description: '《红楼梦》第五回细读——把结局写在开头的"总纲"：太虚幻境、三册判词、十二支曲、意淫与迷津、脂批点题，以及以"假"收束的末回。'
 featured: false
 draft: false
 ---
 
 # 红楼梦第五回：写在开头的结局
+
+> 繁体版：[红楼梦第五回：写在开头的结局](https://github.com/j3ffyang/history/blob/main/docs/260919-hlm-ch5-zh-hant.md)
 
 ![红楼梦第五回](../../../assets/images/260919-hlm-ch5-infographic.png)
 

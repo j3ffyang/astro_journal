@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-07-23T12:00:00.000Z
-modDatetime: 2026-08-17T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 脂砚斋是谁？
 tags:
   - chinese
@@ -14,6 +14,8 @@ featured: false
 draft: false
 ---
 # 脂砚斋是谁？
+
+> 繁体版：[脂砚斋是谁？](https://github.com/j3ffyang/history/blob/main/docs/260723-whoszhiyanzhai-zh-hant.md)
 
 ![banner](../../../assets/images/260801-004338.png)
 

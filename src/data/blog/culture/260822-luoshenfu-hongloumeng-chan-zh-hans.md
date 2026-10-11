@@ -1,6 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-22T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 《洛神赋》与《红楼梦》中的禅意——空、缘、无常与悟道
 tags:
   - chinese
@@ -8,6 +9,7 @@ tags:
   - philosophy
   - culture
   - zen
+  - history
 description: 集中考察空、缘、无常、悟道四个禅宗哲学范畴，在曹植《洛神赋》与曹雪芹《红楼梦》中的层层深化与终极解脱。
 featured: false
 draft: false
@@ -15,9 +17,11 @@ draft: false
 
 # 《洛神赋》与《红楼梦》中的禅意——空、缘、无常与悟道
 
+> 繁体版：[《洛神赋》与《红楼梦》中的禅意——空、缘、无常与悟道](https://github.com/j3ffyang/history/blob/main/docs/260822-luoshenfu-hongloumeng-chan-zh-hant.md)
+
 ![《洛神赋》与《红楼梦》中的禅意](../../../assets/images/260822-luoshenfu-hongloumeng-chan-infographic.png)
 
-> 本文是《[洛神赋：魏晋美学的永恒传承与《红楼梦》的深层对话](260629-luoshenfu-literary-analysis)》的姊妹篇。那篇长文讨论两部作品在女性形象、悲剧结构与美学层面的千年对话；本文则把其中禅宗哲学的维度单独抽出，集中考察"空、缘、无常、悟道"这四个概念如何在两部作品中层层深化。
+> 本文是《[洛神赋：魏晋美学的永恒传承与《红楼梦》的深层对话](260629-luoshenfu-literary-analysis-zh-hans)》的姊妹篇。那篇长文讨论两部作品在女性形象、悲剧结构与美学层面的千年对话；本文则把其中禅宗哲学的维度单独抽出，集中考察"空、缘、无常、悟道"这四个概念如何在两部作品中层层深化。
 
 ## 导言
 
@@ -142,6 +146,6 @@ draft: false
 
 ---
 
-**撰写说明**：本文由《洛神赋：魏晋美学的永恒传承与《红楼梦》的深层对话》（`260629-luoshenfu-literary-analysis`）中禅宗维度的内容独立而成，按"空—缘—无常—悟道"四层重新组织；《洛神赋》《红楼梦》的文本细节与人物分析请参见该长文。
+**撰写说明**：本文由《洛神赋：魏晋美学的永恒传承与《红楼梦》的深层对话》（`260629-luoshenfu-literary-analysis-zh-hans`）中禅宗维度的内容独立而成，按"空—缘—无常—悟道"四层重新组织；《洛神赋》《红楼梦》的文本细节与人物分析请参见该长文。
 
 全文约 3,000 字。

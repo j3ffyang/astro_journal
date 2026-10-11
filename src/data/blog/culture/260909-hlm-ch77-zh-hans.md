@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-09T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 第77回的百年人参
 tags:
   - 红学
   - 红楼梦
   - 文学
   - 读书
+  - chinese
+  - history
+  - culture
+  - literature
 description: 《红楼梦》第七十七回细读——一根"上好却无性力"的百年人参，如何成为贾府由盛转衰最凝练的物象。
 featured: false
 draft: false
 ---
 
 # 第77回的百年人参
+
+> 繁体版：[第77回的百年人参](https://github.com/j3ffyang/history/blob/main/docs/260909-hlm-ch77-zh-hant.md)
 
 ![第77回的百年人参信息图](../../../assets/images/260909-hlm-ch77-ginseng.png)
 

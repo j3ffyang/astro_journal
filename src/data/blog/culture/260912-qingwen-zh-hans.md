@@ -1,19 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-12T12:00:00.000Z
-modDatetime: 2026-10-05T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 晴雯
 tags:
   - 红学
   - 红楼梦
   - 文学
   - 读书
+  - chinese
+  - history
+  - culture
+  - literature
 description: 《红楼梦》又副册第一人晴雯的一生——判词、撕扇、病补雀金裘、抄检被逐、含冤夭亡，以及宝玉为她写的《芙蓉女儿诔》。
 featured: false
 draft: false
 ---
 
 # 晴雯
+
+> 繁体版：[晴雯](https://github.com/j3ffyang/history/blob/main/docs/260912-qingwen-zh-hant.md)
 
 ![晴雯](../../../assets/images/260912-qingwen-infographic.png)
 

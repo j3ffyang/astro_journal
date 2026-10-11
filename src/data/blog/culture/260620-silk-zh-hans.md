@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-20T12:00:00.000Z
-modDatetime: 2026-08-17T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 绫罗绸缎：丝线上的文明密码
 tags:
   - chinese
@@ -14,6 +14,8 @@ featured: false
 draft: false
 ---
 # 绫罗绸缎：丝线上的文明密码
+
+> 繁体版：[绫罗绸缎：丝线上的文明密码](https://github.com/j3ffyang/history/blob/main/docs/260620-silk-zh-hant.md)
 
 - 所有内容均为原创，包括 [SKILL.md](https://clawhub.ai/j3ffyang/260620-silk-essay-chn)
 - 本文的使用协作的 Hermes Agent SKILL.md > https://clawhub.ai/j3ffyang/260620-silk-essay-chn

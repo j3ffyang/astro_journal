@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-08T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 为什么会喜欢红楼梦
 tags:
   - 红学
   - 红楼梦
   - 文学
   - 读书
+  - chinese
+  - history
+  - culture
+  - literature
 description: 从虚实之趣、清代百科、故事编织、人物性格、诗词典故、美学世界到名家读法，记录喜欢《红楼梦》的七个维度。
 featured: false
 draft: false
 ---
 
 # 为什么会喜欢红楼梦
+
+> 繁体版：[为什么会喜欢红楼梦](https://github.com/j3ffyang/history/blob/main/docs/260908-why-love-hlm-zh-hant.md)
 
 说明 (disclaimer)：
 - 这部著作无法用一篇文章概括

@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-04T12:00:00.000Z
-modDatetime: 2026-08-17T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 五代十国：从《太平年》的时代氛围走进真实的乱世
 tags:
   - chinese
@@ -14,6 +14,8 @@ featured: false
 draft: false
 ---
 # 五代十国：从《太平年》的时代氛围走进真实的乱世
+
+> 繁体版：[五代十国：从《太平年》的时代氛围走进真实的乱世](https://github.com/j3ffyang/history/blob/main/docs/260604-five-dynasties-ten-kingdoms-article-zh-hant.md)
 
 > **说明**：下文开头仅借《太平年》作为叙事引子，剧作内容不等于史实。该文章的 Hermes Agent ⚕ & OpenClaw 🦞 的 SKILL.md 粘贴在 > https://clawhub.ai/j3ffyang/five-dynasties-ten-kingdoms-article
 

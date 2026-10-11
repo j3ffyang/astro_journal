@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-29T12:00:00.000Z
-modDatetime: 2026-08-24T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 《洛神赋》：魏晋美学的永恒传承与《红楼梦》的深层对话
 tags:
   - chinese
@@ -15,6 +15,8 @@ draft: false
 ---
 
 # 《洛神赋》：魏晋美学的永恒传承与《红楼梦》的深层对话
+
+> 繁体版：[《洛神赋》：魏晋美学的永恒传承与《红楼梦》的深层对话](https://github.com/j3ffyang/history/blob/main/docs/260629-luoshenfu-literary-analysis-zh-hant.md)
 
 ![sum](../../../assets/images/260629-luoshenfu-infographic.png)
 
@@ -238,7 +240,7 @@ draft: false
 
 在这样的理解框架中，《洛神赋》不仅仅是一部文学经典，而是一部"精神宣言"。它宣言了人类追求精神高洁的永恒冲动，也宣言了对虚幻深处那永恒精神的执拗信仰。
 
-至于以禅宗哲学为镜鉴——空、缘、无常、悟道——对这两部作品的完整解读，见姊妹篇[《洛神赋》与《红楼梦》中的禅意](260822-luoshenfu-hongloumeng-chan)。
+至于以禅宗哲学为镜鉴——空、缘、无常、悟道——对这两部作品的完整解读，见姊妹篇[《洛神赋》与《红楼梦》中的禅意](260822-luoshenfu-hongloumeng-chan-zh-hans)。
 
 ## 参考文献
 
@@ -265,6 +267,6 @@ draft: false
 2. 黛玉的焚稿与《洛神赋》式悲剧的完成
 3. 大观园的虚幻仙境与盛衰悲歌
 4. 版本说明：后四十回情节（如焚稿）出自程伟元、高鹗整理本；脂评本仅存前八十回，文中不以后四十回情节为脂批证据
-5. 禅宗维度的解读已独立为姊妹篇：《洛神赋》与《红楼梦》中的禅意（`260822-luoshenfu-hongloumeng-chan`）
+5. 禅宗维度的解读已独立为姊妹篇：《洛神赋》与《红楼梦》中的禅意（`260822-luoshenfu-hongloumeng-chan-zh-hans`）
 
 全文约 5,100 字。

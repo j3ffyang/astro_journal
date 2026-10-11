@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-20T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: '《蒋勋细说红楼梦》：一种"美"的讲法与它的边界'
 tags:
   - 红学
   - 红楼梦
   - 文学
   - 读书
+  - chinese
+  - history
+  - culture
+  - literature
 description: '蒋勋的《细说红楼梦》：一场持续四年的课——他的讲法、主题（青春、个体价值、儒道之别、妥协），以及"审美读法"与"考证读法"的分野。'
 featured: false
 draft: false
 ---
 
 # 《蒋勋细说红楼梦》：一种"美"的讲法与它的边界
+
+> 繁体版：[《蒋勋细说红楼梦》：一种"美"的讲法与它的边界](https://github.com/j3ffyang/history/blob/main/docs/260820-jiangxun-zh-hant.md)
 
 ![《蒋勋细说红楼梦》信息图](../../../assets/images/260820-jiangxun-infographic.png)
 

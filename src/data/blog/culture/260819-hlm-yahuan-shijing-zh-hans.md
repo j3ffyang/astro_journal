@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-19T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 红楼梦里丫鬟的名字，那些和诗经、古诗有关？
 tags:
   - 红学
   - 诗经
   - 诗词
   - 文学
+  - chinese
+  - history
+  - culture
+  - literature
 description: 考释《红楼梦》十八位丫鬟名字的诗词渊源——或出自《诗经》，或引自唐宋诗词，或取谐音寓意，既增添文学意蕴，也暗示人物命运。
 featured: false
 draft: false
 ---
 
 # 红楼梦里丫鬟的名字，那些和诗经、古诗有关？
+
+> 繁体版：[红楼梦里丫鬟的名字，那些和诗经、古诗有关？](https://github.com/j3ffyang/history/blob/main/docs/260819-hlm-yahuan-shijing-zh-hant.md)
 
 曹雪芹在《红楼梦》中为丫鬟取名，往往暗藏玄机，或出自《诗经》，或引自唐宋诗词，或取谐音寓意，既增添文学意蕴，也暗示人物命运。以下考释十八位丫鬟名字的诗词渊源。
 

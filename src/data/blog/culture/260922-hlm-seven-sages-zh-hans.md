@@ -8,6 +8,10 @@ tags:
   - 世说新语
   - 魏晋
   - 红学
+  - chinese
+  - history
+  - culture
+  - literature
 description: '《红楼梦》第二回贾雨村的"正邪两赋"名单里，阮籍、嵇康、刘伶正是竹林七贤中人。本文细读七贤轶事，看曹雪芹如何把贾宝玉接在名士谱系之后。'
 featured: false
 draft: false

@@ -11,6 +11,7 @@ tags:
   - chinese
   - history
   - culture
+  - literature
 description: '《红楼梦》第一回以《好了歌》点出"真"与"假"，第八十回以王一贴的假膏药收束。本文对读两回，看这部书如何在开头与结尾各响一声，并引脂砚斋批语为证。'
 featured: false
 draft: false

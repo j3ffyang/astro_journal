@@ -1,18 +1,25 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-11T12:00:00.000Z
+modDatetime: 2026-10-11T07:38:45.000Z
 title: 红楼梦十二个小戏子
 tags:
   - 红学
   - 红楼梦
   - 文学
   - 戏曲
+  - chinese
+  - history
+  - culture
+  - literature
 description: 《红楼梦》里的十二个小戏子——为元妃省亲从苏州买来，学戏于梨香院，散入各房，最后或逐、或亡、或出家，最能照见"人"字的分量。
 featured: false
 draft: false
 ---
 
 # 红楼梦十二个小戏子
+
+> 繁体版：[红楼梦十二个小戏子](https://github.com/j3ffyang/history/blob/main/docs/260911-12-girl-actors-zh-hant.md)
 
 ![红楼梦十二个小戏子信息图](../../../assets/images/260911-12-girl-actors-infographic.png)
 

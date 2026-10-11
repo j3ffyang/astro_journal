@@ -42,6 +42,26 @@ const postRedirects = {
   "/posts/philosophy/260722-unknownunknowns2":
     "/posts/philosophy/260722-unknown-unknowns",
   "/posts/tech/260807-amd": "/posts/tech/260807-gpd-dual-amd-gpu",
+  "/posts/culture/260604-five-dynasties-ten-kingdoms-article":
+    "/posts/culture/260604-five-dynasties-ten-kingdoms-article-zh-hans",
+  "/posts/culture/260620-silk-chn": "/posts/culture/260620-silk-zh-hans",
+  "/posts/culture/260629-luoshenfu-literary-analysis":
+    "/posts/culture/260629-luoshenfu-literary-analysis-zh-hans",
+  "/posts/culture/260723-whoszhiyanzhai":
+    "/posts/culture/260723-whoszhiyanzhai-zh-hans",
+  "/posts/culture/260819-hlm-yahuan-shijing":
+    "/posts/culture/260819-hlm-yahuan-shijing-zh-hans",
+  "/posts/culture/260820-jiangxun": "/posts/culture/260820-jiangxun-zh-hans",
+  "/posts/culture/260822-luoshenfu-hongloumeng-chan":
+    "/posts/culture/260822-luoshenfu-hongloumeng-chan-zh-hans",
+  "/posts/culture/260908-why-love-hlm":
+    "/posts/culture/260908-why-love-hlm-zh-hans",
+  "/posts/culture/260909-hlm-ch77":
+    "/posts/culture/260909-hlm-ch77-zh-hans",
+  "/posts/culture/260911-12-girl-actors":
+    "/posts/culture/260911-12-girl-actors-zh-hans",
+  "/posts/culture/260912-qingwen": "/posts/culture/260912-qingwen-zh-hans",
+  "/posts/culture/260919-hlm-ch5": "/posts/culture/260919-hlm-ch5-zh-hans",
 } as const;
 
 export default defineConfig({
