@@ -1,7 +1,6 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-19T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
 title: 红楼梦第五回：写在开头的结局
 tags:
   - 红楼梦

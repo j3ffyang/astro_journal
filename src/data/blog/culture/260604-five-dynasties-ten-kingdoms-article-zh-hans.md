@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-04T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
+modDatetime: 2026-08-17T12:00:00.000Z
 title: 五代十国：从《太平年》的时代氛围走进真实的乱世
 tags:
   - chinese

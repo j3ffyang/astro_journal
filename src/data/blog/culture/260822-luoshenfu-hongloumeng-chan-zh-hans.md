@@ -1,7 +1,6 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-22T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
 title: 《洛神赋》与《红楼梦》中的禅意——空、缘、无常与悟道
 tags:
   - chinese

@@ -1,7 +1,6 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-09-08T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
 title: 为什么会喜欢红楼梦
 tags:
   - 红学

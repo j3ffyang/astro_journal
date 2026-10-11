@@ -1,7 +1,6 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-08-20T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
 title: '《蒋勋细说红楼梦》：一种"美"的讲法与它的边界'
 tags:
   - 红学

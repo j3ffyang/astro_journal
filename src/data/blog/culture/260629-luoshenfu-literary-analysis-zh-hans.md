@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-29T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
+modDatetime: 2026-08-24T12:00:00.000Z
 title: 《洛神赋》：魏晋美学的永恒传承与《红楼梦》的深层对话
 tags:
   - chinese

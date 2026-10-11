@@ -1,7 +1,7 @@
 ---
 author: Jeff Yang
 pubDatetime: 2026-06-20T12:00:00.000Z
-modDatetime: 2026-10-11T07:38:45.000Z
+modDatetime: 2026-08-17T12:00:00.000Z
 title: 绫罗绸缎：丝线上的文明密码
 tags:
   - chinese
