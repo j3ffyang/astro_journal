@@ -11,7 +11,7 @@ tags:
   - network
   - opensource
 description: A 35-year personal journey with Linux — from AIX at IBM and getting hacked, to the security habit it forged, the distro years ending at Arch, and every machine now Arch Linux
-featured: true
+featured: false
 draft: false
 ---
 
