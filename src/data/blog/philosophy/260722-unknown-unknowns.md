@@ -14,7 +14,7 @@ tags:
   - engineering
   - curiosity
 description: Explore a territory of unknown unknonws
-featured: true
+featured: false
 draft: false
 ---
 

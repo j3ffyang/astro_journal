@@ -8,7 +8,7 @@ tags:
   - ai-agents
   - session-persistence
 description: "Where an OpenCode coding-agent session lives on disk and how it resumes — the single SQLite store, what it holds, the business data it becomes at team scale, context compaction, pruning, and backup."
-featured: true
+featured: false
 draft: false
 ---
 
