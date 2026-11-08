@@ -233,7 +233,7 @@ The app stays yours. A friend never opens the Developer Portal, never installs a
 
 An allowlisted friend reaches the agent's tool surface on this VPS, not just a chat window — treat the allowlist like a shell account, and see *Keeping it private* below for what that means.
 
-**Commands are a second surface.** With no admin split configured, every allowlisted user also gets the full slash-command set — including `/learn`, which writes a skill into `~/.hermes/skills`, plus `/save`, `/rollback`, and `/update`. Tools and commands are gated separately: `platform_toolsets` never sees a slash command. Set `allow_admin_from` and `group_allow_admin_from` to your ID, and give guests a short `user_allowed_commands`. The exact block — and why it belongs in `platforms.discord` rather than `gateway.platforms.discord` — is in [the hardening guide](261108-hermes-guest-hardening.md).
+**Commands are a second surface.** With no admin split configured, every allowlisted user also gets the full slash-command set — including `/learn`, which writes a skill into `~/.hermes/skills`, plus `/save`, `/rollback`, and `/update`. Tools and commands are gated separately: `platform_toolsets` never sees a slash command. Set `allow_admin_from` and `group_allow_admin_from` to your ID, and give guests a short `user_allowed_commands`. The exact block — and why it belongs in `platforms.discord` rather than `gateway.platforms.discord` — is in [the hardening guide](https://github.com/j3ffyang/ai-thoughts/blob/main/docs/261108-hermes-guest-hardening.md).
 
 Before the first invite, leave **Community** off — no discovery, no vanity link. Access comes from the roles you grant.
 
@@ -281,7 +281,7 @@ What this posture does **not** buy, stated plainly:
 
 - Discord is not end-to-end encrypted. Channel messages, attachments, and DMs sit on Discord's servers, and copies sit in `~/.hermes/state.db` on the VPS.
 - Every prompt leaves the VPS for the model provider (here OpenRouter's free tier) and is subject to that provider's retention.
-- Allowlisting a person hands them the agent's tool surface on that VPS — terminal, files, browser — **by default**. The Discord privacy settings control *who can reach the bot*; `platform_toolsets` and `approvals` control *what it may do* once reached. [The hardening guide](261108-hermes-guest-hardening.md) is the second half of this one: it takes the write tools off Discord and leaves them in the CLI.
+- Allowlisting a person hands them the agent's tool surface on that VPS — terminal, files, browser — **by default**. The Discord privacy settings control *who can reach the bot*; `platform_toolsets` and `approvals` control *what it may do* once reached. [The hardening guide](https://github.com/j3ffyang/ai-thoughts/blob/main/docs/261108-hermes-guest-hardening.md) is the second half of this one: it takes the write tools off Discord and leaves them in the CLI.
 
 ## How the bot behaves
 
