@@ -11,7 +11,7 @@ tags:
   - opensource
   - archlinux
 description: Reflections on growing with AI agents — choosing OpenCode, learning the pace of AI collaboration, discovering Git automation, and finding meditative honesty in terminal-based computing
-featured: true
+featured: false
 draft: false
 ---
 
